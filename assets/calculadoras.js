@@ -27,9 +27,10 @@ const CALCULADORAS = [
   // === Adicione novas calculadoras abaixo ===
   // Exemplo:
   // {
-  //   id: 'pilar-compressao-simples',
-  //   nome: 'Pilar — Compressão simples',
-  //   arquivo: 'calculadora_pilar.html',
-  //   descricao: 'Dimensionamento de pilar de concreto armado com flexão composta.'
+  //   id: 'sapata-associada',
+  //   nome: 'Sapata Associada',
+  //   arquivo: 'ccalculadora_sapata_associada.html',
+  //   descricao: 'Verificação e armaduras Sapata Associada'
   // },
+   
 ];
